@@ -1,4 +1,44 @@
-img {
-    max-width: 100%;
-    align-self: center;
+body {
+    background-color: #2D4059;
+    color: #FFB400;
+    text-align: center;
+    font-family: 'Rubik Microbe', cursive;
+}
+
+p {
+    color: #F6F6F6;
+    font-family: 'Raleway', sans-serif;
+    text-align: justify;
+}
+
+a {
+    color: #EA5455;
+}
+
+a:hover {
+    color: rgb(255, 0, 0);
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin-bottom: 20px;
+}
+
+li:last-child {
+    margin-bottom: 0%;
+}
+
+#img-caption {
+    color: rgba(255, 179, 0, 0.746);
+    font-family: 'Raleway', sans-serif;
+}
+
+#image {
+    max-width: 300px;
+    display: block;
+    margin: auto;
+    border-radius: 50%;
 }
