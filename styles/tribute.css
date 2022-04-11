@@ -1,6 +1,6 @@
 body {
     background-color: #2D4059;
-    color: #FFB400;
+    color: #F39189;
     text-align: center;
     font-family: 'Rubik Microbe', cursive;
 }
@@ -32,7 +32,7 @@ li:last-child {
 }
 
 #img-caption {
-    color: rgba(255, 179, 0, 0.746);
+    color: #BB8082;
     font-family: 'Raleway', sans-serif;
 }
 
